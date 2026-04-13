@@ -1,1 +1,5 @@
 .idea/
+# circl-ui
+circl-ui/dist/
+circl-ui/.angular/
+circl-ui/node_modules/
