@@ -52,6 +52,7 @@ Prerequisites
 Backend Setup
 
 git clone https://github.com/gaurav-regmi/circlAI.git
+
 cd circlAI/circl
 
 Update application.yml:
@@ -72,6 +73,7 @@ Run the backend:
 Frontend Setup
 
 cd circlAI/circl-ui
+
 npm install
 ng serve
 
