@@ -1,0 +1,45 @@
+spring:
+  application:
+    name: circl
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 5MB
+  datasource:
+    url: jdbc:mysql://localhost:3306/circl_db
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: Grvregmi@5274
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.MySQLDialect
+  ai:
+    anthropic:
+      api-key:
+      chat:
+        options:
+          model: claude-sonnet-4-6
+          max-tokens: 1024
+
+#  jackson:
+#    serialization:
+#      write-dates-as-timestamps: false
+
+aws:
+  accessKey:
+  secretKey:
+  s3:
+    bucket:
+    region: us-east-1          # change to your bucket's actual region
+    presigned-url-expiry-minutes: 60
+
+app:
+  jwt:
+    secret: circl-super-secret-jwt-signing-key-must-be-at-least-32-chars
+    expiry-hours: 24

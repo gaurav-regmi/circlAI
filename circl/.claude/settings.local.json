@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(curl -s \"https://api.github.com/repos/springdoc/springdoc-openapi/releases?per_page=20\")",
+      "Bash(python3 -c \" import json,sys releases=json.load\\(sys.stdin\\) for r in releases: print\\(r.get\\('tag_name'\\), r.get\\('published_at',''\\)[:10]\\) \")",
+      "Bash(curl -s \"https://api.github.com/repos/springdoc/springdoc-openapi/releases/tags/v3.0.3\")",
+      "Bash(python3 -c \" import json,sys r=json.load\\(sys.stdin\\) print\\(r.get\\('body',''\\)\\) \")",
+      "Bash(curl -sI \"https://repo1.maven.org/maven2/org/springdoc/springdoc-openapi-starter-webmvc-ui/3.0.3/springdoc-openapi-starter-webmvc-ui-3.0.3.jar\")",
+      "Bash(npm start:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:4200/login)",
+      "Bash(npm install:*)",
+      "Bash(./mvnw compile:*)",
+      "Bash(/usr/libexec/java_home)",
+      "Bash(JAVA_HOME=$\\(/usr/libexec/java_home || echo \"/usr/local/opt/openjdk\"\\) ./mvnw compile -q)",
+      "Bash(grep -E \"\\\\.java$\")",
+      "Bash(npm run:*)",
+      "Read(//Users/gauravregmi/Documents/Projects/Circl/circl-ui/**)",
+      "Bash(npx tsc:*)",
+      "Bash(node_modules/.bin/tsc --noEmit)"
+    ]
+  }
+}
