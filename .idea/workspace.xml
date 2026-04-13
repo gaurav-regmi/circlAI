@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c20402b-cc64-4be1-8c18-39cab82bdfe1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CLAUDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/angular-animations.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/angular-aria.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/cli.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/component-harnesses.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/component-styling.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/components.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/creating-services.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/data-resolvers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/define-routes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/defining-providers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/di-fundamentals.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/e2e-testing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/effects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/hierarchical-injectors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/host-elements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/injection-context.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/inputs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/linked-signal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/loading-strategies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/mcp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/navigate-to-routes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/outputs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/reactive-forms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/rendering-strategies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/resource.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/route-animations.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/route-guards.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/router-lifecycle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/router-testing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/show-routes-with-outlets.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/signal-forms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/signals-overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/tailwind-css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/template-driven-forms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-developer/references/testing-fundamentals.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/angular-new-app/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/archunit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/code-organization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/spring-boot-docker-compose.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/spring-boot-maven-config.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/spring-boot-rest-api-testing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/spring-boot-webapp-testing-with-mockmvctester.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/spring-data-jpa.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/spring-modulith.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/spring-service-layer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/spring-webmvc-rest-api.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/taskfile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.agents/skills/spring-boot-skill/references/thymeleaf.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.claude/settings.local.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/CLAUDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/skills-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/CirclApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/domain/ActivityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/domain/ActivityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/domain/UserActivityEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/domain/UserActivityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/domain/models/ActivityId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/domain/models/ActivityVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/domain/models/AttendanceStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/domain/models/UpdateAttendanceCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/rest/controllers/ActivityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/activity/rest/dtos/UpdateAttendanceRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/ai/domain/EventChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/ai/domain/EventDescriptionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/ai/rest/controllers/AiChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/ai/rest/dtos/AiChatRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/ai/rest/dtos/AiChatResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/ai/rest/dtos/DescriptionRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/ai/rest/dtos/DescriptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/ChatAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/ChatInvitationEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/ChatInvitationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/ChatMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/ChatMemberEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/ChatMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/ChatRoomEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/ChatRoomRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/ChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/DirectChatRequestEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/DirectChatRequestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/DirectChatRequestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/MessageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/AddMemberCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/ChatInvitationVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/ChatMemberId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/ChatMemberVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/ChatMessageSent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/ChatRoomId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/ChatRoomType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/ChatRoomVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/CreateSubGroupCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/DirectChatRequestAccepted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/DirectChatRequestId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/DirectChatRequestSent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/DirectChatRequestStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/DirectChatRequestVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/InvitationId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/InvitationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/InviteUserCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/MemberRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/MessageId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/MessageVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/RespondToInvitationCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/SendMessageCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/domain/models/UploadFileCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/rest/controllers/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/rest/controllers/DirectChatRequestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/rest/dtos/AddMemberRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/rest/dtos/CreateSubGroupRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/rest/dtos/InviteUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/rest/dtos/SendDirectChatRequestRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/chat/rest/dtos/SendMessageRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/config/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/config/JpaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/config/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/config/OpenApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/config/S3Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/discovery/domain/PeopleDiscoveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/discovery/domain/models/PersonSuggestionVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/discovery/rest/controllers/PeopleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/EventsAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/CouponEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/CouponRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/EventEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/EventMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/EventRegistrationEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/EventRegistrationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/EventRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/EventService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/EventSpecifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/CouponId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/CouponVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/CreateCouponCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/CreateEventCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/EventCancelled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/EventCreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/EventFilterCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/EventId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/EventStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/EventVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/ParkingType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/RegisterForEventCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/RegistrationId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/RegistrationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/RegistrationVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/UpdateEventCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/domain/models/UserRegisteredForEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/rest/controllers/EventController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/rest/dtos/CreateCouponRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/rest/dtos/CreateEventRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/rest/dtos/GeneratedCouponCodeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/rest/dtos/RegisterForEventRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/events/rest/dtos/UpdateEventRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/languages/domain/LanguageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/languages/domain/LanguageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/languages/domain/LanguageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/languages/domain/models/LanguageVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/languages/rest/controllers/LanguageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/notifications/domain/NotificationEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/notifications/domain/NotificationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/notifications/domain/NotificationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/notifications/domain/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/notifications/domain/models/NotificationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/notifications/domain/models/NotificationVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/notifications/rest/controllers/NotificationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/shared/domain/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/shared/exceptions/DomainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/shared/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/shared/models/DomainEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/shared/services/S3StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/shared/services/SpringEventPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/shared/utils/AssertUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/shared/utils/IdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/UsersAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/UserProfileEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/UserProfileMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/UserProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/models/RegisterUserCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/models/UpdateProfileCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/models/UserCreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/models/UserId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/models/UserProfileVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/models/UserPublicProfileVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/models/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/domain/models/UserVM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/rest/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/rest/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/rest/dtos/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/rest/dtos/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/rest/dtos/RegisterUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/rest/dtos/UpdateProfileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/java/com/event/circl/users/rest/dtos/UserLookupResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circl/src/test/java/com/event/circl/CirclApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/circl-ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/circl-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/circl-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/src/app/app-module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/circl-ui/src/app/app-module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/src/app/app-routing-module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/circl-ui/src/app/app-routing-module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/src/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/circl-ui/src/app/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/circl-ui/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circl-ui/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/circl-ui/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/circl-ui" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gaurav-regmi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://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@github.com/gaurav-regmi/circlAI.git&quot;,
+    &quot;accountId&quot;: &quot;e95a500d-b1f5-4b25-9673-f084e68efd7d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3CJUCeW0g16XkYhC4ZtlcZXmm6V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="circlAI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="circlAI" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c20402b-cc64-4be1-8c18-39cab82bdfe1" name="Changes" comment="" />
+      <created>1776103039696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776103039696</updated>
+      <workItem from="1776103041037" duration="1665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
