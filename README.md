@@ -77,10 +77,6 @@ cd circlAI/circl-ui
 npm install
 ng serve
 
-Access the app at:
-
-http://localhost:4200
-
 API Highlights
 * Event management APIs
 * User connection APIs
